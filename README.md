@@ -36,15 +36,15 @@
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/goETn91.png" alt="Intro">
+    <img width="200" style="border-radius: 5px" height="400" src="https://i.imgur.com/goETn91.png">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/goETn91.png" alt="Register adopt">
+    <img width="200" style="border-radius: 5px" height="400" src="https://i.imgur.com/goETn91.png">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/goETn91.png" alt="Chat">
+    <img width="200" style="border-radius: 5px" height="400" src="https://i.imgur.com/goETn91.png">
   </kbd>
 </p>
 
@@ -87,6 +87,7 @@
 -   [Yarn](https://yarnpkg.com)
 -   [Docker](https://www.docker.com)
 -   [Facebook Login](https://github.com/facebook/react-native-fbsdk)
+-   [Google Login](https://github.com/react-native-community/google-signin)
 
 ## :handshake: **Contribuição**
 
